@@ -8,3 +8,5 @@ __pycache__/
 # 密钥
 .env
 
+test.py
+
