@@ -38,7 +38,7 @@ def count_unread(books):
     for b in books:
         if b["read"] == False:
             count += 1
-    print(f"未读书籍数量：{count}")
+    return count
 
 # 添加书籍
 def add_book(books):
