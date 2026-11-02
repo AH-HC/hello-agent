@@ -9,4 +9,6 @@ __pycache__/
 .env
 
 test.py
+test_json.py
+test_data.json
 
