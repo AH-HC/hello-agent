@@ -1,6 +1,7 @@
-import json
+from pathlib import Path
 
-FILE = "books.json"
+FILE = Path(__file__).parent / "books.json"
+
 
 # 标记已读 / 未读
 def mark_read(books, title, read = True):
