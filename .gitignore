@@ -7,7 +7,7 @@ __pycache__/
 
 # 密钥
 .env
-
+w2/*.txt
 test.py
 test_json.py
 test_data.json
