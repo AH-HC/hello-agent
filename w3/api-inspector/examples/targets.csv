@@ -1,0 +1,6 @@
+name,url
+github_user,https://api.github.com/users/AH-HC
+github_404,https://api.github.com/users/no-such-user-xyz-999
+httpbin_500,https://httpbin.org/status/500
+httpbin_slow,https://httpbin.org/delay/3
+bad_url,not-a-valid-url
